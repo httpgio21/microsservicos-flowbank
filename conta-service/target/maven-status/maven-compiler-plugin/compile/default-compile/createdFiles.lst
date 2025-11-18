@@ -1,7 +1,4 @@
-com\ms\conta\security\SecurityConfig.class
 com\ms\conta\controller\ContaController.class
-com\ms\conta\security\JwtUtil.class
 com\ms\conta\model\Conta.class
 com\ms\conta\repository\ContaRepository.class
-com\ms\conta\security\JwtFilter.class
 com\ms\conta\ContaServiceApplication.class

@@ -1,6 +1,7 @@
 com\ms\usuario\UsuarioServiceApplication.class
 com\ms\usuario\model\Usuario.class
 com\ms\usuario\security\SecurityConfig.class
+com\ms\usuario\controller\UsuarioController$ContaResponse.class
 com\ms\usuario\repository\UsuarioRepository.class
 com\ms\usuario\security\JwtUtil.class
 com\ms\usuario\controller\UsuarioController.class
